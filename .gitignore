@@ -1,0 +1,8 @@
+# Downloaded by makepkg
+/kwin-*.tar.xz
+/kwin-*.tar.xz.sig
+/2d0613ac.patch
+# Build output
+/src/
+/pkg/
+/*.pkg.tar.zst
